@@ -1,4 +1,4 @@
-
+// Example of Partial Application
 
 function sum(a){
     return function (c , d){

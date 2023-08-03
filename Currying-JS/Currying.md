@@ -1,9 +1,7 @@
-1) What is Currying ?
+1) What is Currying ?   => f(a,b,c,d)  to  f(a)(b)(c)(d)
 
-Ans ) Currying is a programming technique in which a function with multiple parameters is converted into
-    a series of function, Each Function Taking one Argument
-
-    f(a,b,c,d)  to  f(a)(b)(c)(d)
+    -> Currying is a programming technique in which a function with multiple parameters is converted into
+       a series of function, Each Function Taking one Argument
 
 
 
@@ -23,7 +21,6 @@ Ans ) Currying is a programming technique in which a function with multiple para
     -> To create Higher Order Function
     -> Currying makes our function Pure and Less prone to Error
     -> It Allows for partial function application creating more flexible and reusablity
-
 
 
 
@@ -54,3 +51,8 @@ Ans ) Currying is a programming technique in which a function with multiple para
     in different ways
 
 
+6) Implement Curry Function
+
+7) How can u used Curry Function in Web Application 
+
+8) Infinite Currying
